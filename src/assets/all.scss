@@ -1,6 +1,9 @@
-@import '~bootstrap/scss/bootstrap.scss';
-$body-color:rgb(3, 63, 66);
+@import "~bootstrap/scss/bootstrap.scss";
 
-.App-header{
-    background-color: $body-color;
+.navbar {
+  padding: 10px 20px;
+}
+.badge{
+    background-color: red !important;
+    border-radius: 50%!important;
 }
