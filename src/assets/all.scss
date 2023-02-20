@@ -1,4 +1,7 @@
-@import "~bootstrap/scss/bootstrap.scss";
+@import "bootstrap/scss/functions";
+@import "./variables";
+@import "bootstrap/scss/bootstrap";
+@import "_utilities";
 
 .navbar {
   padding: 10px 20px;
